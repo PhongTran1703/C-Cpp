@@ -12,4 +12,5 @@ int main (){
 void print(){
 	std::cout << "hello\n";
 	print();
+	break;
 }
