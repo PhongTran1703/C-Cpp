@@ -1,0 +1,3 @@
+/mnt/c/PJ/cpp/CMake/build/CMakeFiles/Hellow.dir
+/mnt/c/PJ/cpp/CMake/build/CMakeFiles/edit_cache.dir
+/mnt/c/PJ/cpp/CMake/build/CMakeFiles/rebuild_cache.dir
