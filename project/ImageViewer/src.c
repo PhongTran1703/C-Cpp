@@ -33,9 +33,9 @@ int main (){
 	
 	SDL_Rect pixel = (SDL_Rect){0,0,1,1};
 	Uint32 color = 0;
-	for(int x = 0; x < width; x++ )
+	for(int y = 0; y < height; y++ )
 	{
-		for(int y = 0; y < height; y++)
+		for(int x = 0; x < width; x++)
 		{
 			Uint8 r, g, b;
 			r = (char) getchar();
