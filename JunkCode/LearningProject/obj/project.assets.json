@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/fong/.nuget/packages/": {}
+    "/home/phongtran1703/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/thanh/Desktop/C-/JunkCode/LearningProject/LearningProject.csproj",
+      "projectUniqueName": "/mnt/c/PJ/cpp/JunkCode/LearningProject/LearningProject.csproj",
       "projectName": "LearningProject",
-      "projectPath": "/mnt/c/Users/thanh/Desktop/C-/JunkCode/LearningProject/LearningProject.csproj",
-      "packagesPath": "/home/fong/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/thanh/Desktop/C-/JunkCode/LearningProject/obj/",
+      "projectPath": "/mnt/c/PJ/cpp/JunkCode/LearningProject/LearningProject.csproj",
+      "packagesPath": "/home/phongtran1703/.nuget/packages/",
+      "outputPath": "/mnt/c/PJ/cpp/JunkCode/LearningProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fong/.nuget/NuGet/NuGet.Config"
+        "/home/phongtran1703/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
